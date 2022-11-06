@@ -1,0 +1,5 @@
+stanza
+argparse
+sacrebleu
+beautifulsoup4
+lxml
