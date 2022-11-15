@@ -172,7 +172,7 @@ zh | 让 我们 查看 多 面 化 如何 使用 添加到 \<ph\> 经 典 设计
 t2s.en | [S0] \<ph\> [S1] \</ph\> [S2] \<ph\> [S3] \</ph\> [S4] **[SEP]** [S0] Let’s look at how faceting works with the number and chart widgets that we added to our [S1] classic designer [S2] [S3] dashboard [S4] .
 t2s.zh | [T0] \<ph\> [T1] \</ph\> [T2] \<ph\> [T3] \</ph\> [T4] **[SEP]** [T0] 让 我们 查看 多 面 化 如何 使用 添加到 [T1] 经 典 设计 器 [T2] [T3] 仪表板 [T4] 的 数字 和 图表 小部件 。
 t2s.infer.en | [S0] \<ph\> [S1] \</ph\> [S2] \<ph\> [S3] \</ph\> [S4] **[SEP]** [S0] Let ’ s look at how faceting works with the number and chart widgets that we added to our [S1] classic designer [S2] [S3] dashboard [S4] .
-t2s.infer.zh | [T0] \<ph\> [T1] \</ph\> [T2] \<ph\> [T3] \</ph\> [T4] **[SEP]**
+t2s.infer.zh | [T0]
 
 ### Training
 
